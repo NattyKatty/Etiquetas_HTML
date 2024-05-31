@@ -1,0 +1,18 @@
+.footer {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    background-color: rgb(167, 230, 255);
+    color: black;
+    padding: 5px; 
+}
+
+.footer img {
+    width: 10rem; 
+    height: 10rem;
+    border-radius: 2%;
+}
+
+.footer .colaboradoras {
+    font-size: 16px; 
+}
